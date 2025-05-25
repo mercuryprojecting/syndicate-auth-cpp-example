@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\something\source\repos\SyndicateAuthCPP\SyndicateAuthCPP\syndicate\SyndicateAuthLib.h(25,21): warning C4251: 'SyndicateAuthLib::Auth::m_apiKey': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'SyndicateAuthLib::Auth'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\Users\something\source\repos\SyndicateAuthCPP\SyndicateAuthCPP\syndicate\SyndicateAuthLib.h(26,21): warning C4251: 'SyndicateAuthLib::Auth::m_secretKey': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'SyndicateAuthLib::Auth'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\Users\something\source\repos\SyndicateAuthCPP\SyndicateAuthCPP\syndicate\SyndicateAuthLib.h(27,21): warning C4251: 'SyndicateAuthLib::Auth::m_previousResponse': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'SyndicateAuthLib::Auth'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+C:\Users\something\source\repos\SyndicateAuthCPP\SyndicateAuthCPP\syndicate\SyndicateAuthLib.h(28,21): warning C4251: 'SyndicateAuthLib::Auth::m_lastError': 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of 'SyndicateAuthLib::Auth'
+  (compiling source file 'main.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xstring(527,7):
+      see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  
+  SyndicateAuthCPP.vcxproj -> C:\Users\something\source\repos\SyndicateAuthCPP\x64\Debug\SyndicateAuthCPP.exe
