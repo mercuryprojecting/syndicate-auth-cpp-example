@@ -4,8 +4,8 @@
 This document outlines the comprehensive security improvements implemented across the Syndicate Auth platform, including API endpoints, client library, and web interface enhancements.
 
 ---
-## 🛡️ **How to build project**
-- **Build Example**: After successfully building the example, drag and drop the required DLLs into the same folder as your executable then run.
+## 🟢 **How to build project**
+- **Build Example**: After successfully building the example, download the required DLLs from my other repo and put them in your executable's directory.
 ---
 
 ---
